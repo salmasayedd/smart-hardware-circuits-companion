@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hardware & Circuits Companion",
+  "description": "Intelligent engineering workstation for circuit image analysis, embedded code debugging, deterministic calculators, and interactive circuit simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
